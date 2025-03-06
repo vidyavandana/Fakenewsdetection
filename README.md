@@ -1,5 +1,7 @@
 Fake News Detection 📰🚀
+
 📌 Project Objective
+
 The goal of this project is to build a Fake News Detection system using machine learning algorithms without using NLP-based techniques. The model predicts whether a news article is Fake or Real based on statistical and metadata-based features such as word count, punctuation frequency, and other structured data attributes.
 
 🛠️ Techniques & Methodologies Used
