@@ -5,6 +5,7 @@ Fake News Detection 📰🚀
 The goal of this project is to build a Fake News Detection system using machine learning algorithms without using NLP-based techniques. The model predicts whether a news article is Fake or Real based on statistical and metadata-based features such as word count, punctuation frequency, and other structured data attributes.
 
 🛠️ Techniques & Methodologies Used
+
 This project uses Supervised Machine Learning algorithms to classify news articles. Instead of NLP-based approaches like TF-IDF or word embeddings, we focus on structured numerical features extracted from the news content.
 
 Data Preprocessing
@@ -26,9 +27,13 @@ F1 Score
 Since CSV files are large, they are stored in Google Drive and accessed directly using Pandas.
 
 Fake News Data: Fake.csv
+
 Real News Data: True.csv
+
 Manual Testing Data: Manual_Testing.csv
+
 ⚙️ Tools & Technologies Used
+
 Programming Language: Python 🐍
 Libraries Used:
 Pandas - Data Handling
