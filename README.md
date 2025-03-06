@@ -23,7 +23,9 @@ Model Evaluation Metrics
 Accuracy
 Precision & Recall
 F1 Score
+
 🔗 Dataset
+
 Since CSV files are large, they are stored in Google Drive and accessed directly using Pandas.
 
 Fake News Data: Fake.csv
@@ -35,12 +37,21 @@ Manual Testing Data: Manual_Testing.csv
 ⚙️ Tools & Technologies Used
 
 Programming Language: Python 🐍
+
 Libraries Used:
+
 Pandas - Data Handling
+
 NumPy - Numerical Computation
+
 Scikit-Learn - Machine Learning Models
+
 Matplotlib & Seaborn - Data Visualization
 
+
 📌 Future Enhancements
+
 Integrate with a web application for real-time detection
+
 Improve dataset with additional metadata
+
